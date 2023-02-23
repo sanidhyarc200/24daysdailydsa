@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "exampletest.js",
-  
   "scripts": {
-    "start":"index.js",
+    "start": "nodemon ./day2/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-    
   },
- 
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
