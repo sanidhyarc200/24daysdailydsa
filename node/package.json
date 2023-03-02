@@ -4,7 +4,7 @@
   "description": "",
   "main": "exampletest.js",
   "scripts": {
-    "start": "nodemon ./day2/index.js",
+    "start": "nodemon ./day3/main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
